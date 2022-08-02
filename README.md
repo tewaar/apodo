@@ -1,2 +1,1 @@
-# apodo
-Apodo del barrio
+
